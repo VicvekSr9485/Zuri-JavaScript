@@ -1,4 +1,4 @@
-https://vicveksr9485.github.io/Zuri-JavaScript/Introduction_to_Javascript/index.html
+https://vicveksr9485.github.io/Zuri-JavaScript/Introduction_to_Javascript/main.js
 
 
 # THE ABOVE LINK HOSTS THE GITHUB PAGE TO MY WORK
