@@ -1,7 +1,7 @@
 // This code prints some basic information about me
-// RUN THIS CODE ON A BROWSER CONSOLE OR USING THE BELOW LINK TO OUTPUT IT TO THE SCREEN
+// RUN THIS CODE ON A BROWSER CONSOLE OR USE THE BELOW LINK TO OUTPUT IT TO THE SCREEN
 
-//https://vicveksr9485.github.io/Zuri-JavaScript/Introduction_to_Javascript/index.html
+// https://vicveksr9485.github.io/Zuri-JavaScript/Introduction_to_Javascript/index.html
 
 let my_name = "Olamide Oso"
 let my_height = 184
